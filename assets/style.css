@@ -1,13 +1,14 @@
 :root {
     --accent: #CE8BAE;
-    --accent-light: #e2c5d4;
-    --grey: #444;
+    --accent-light: #ffe0f0;
+    --grey: rgb(50, 50, 50);
 }
 
 html {
     font-size:  100%;
     scroll-behavior: smooth;
-    background-color: #F5F5F5;
+    background-color: #efdfe8;
+    color: var(--grey)
 }
 
 ::selection {
@@ -57,6 +58,8 @@ main {
 }
 
 .page-footer {
+    display: flex;
+    flex-direction: column;
     text-align: center;
     margin-bottom: 8px;
 }
