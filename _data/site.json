@@ -1,6 +1,7 @@
 {
-    "title": "John Lemmon",
-    "desc": "1-2 sentences about the site (optional)",
-    "author": "John Lemmon",
-    "baseurl": "https://eleventy-garden.netlify.app"
+    "title": "renzo's garden",
+    "desc": "my digital garden (*꒦ິ꒳꒦ີ)",
+    "author": "Renzo Ledesma",
+    "baseurl": "https://garden-one.vercel.app",
+    "year": "2022"
 }

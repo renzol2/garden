@@ -1,5 +1,9 @@
 ---
-title: About these notes
+title: about these notes
 ---
-# About these Notes
-These are some fake notes. Feel free to poke around. You may spot an [[easter egg]]  or two! Also, I like [[food]].
+
+# about these notes
+
+there will be notes here soon.
+
+everything is made of [[bit | bits]]

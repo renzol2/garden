@@ -1,5 +1,9 @@
 ---
 layout: default
 ---
-# Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+
+# good morning
+
+(*꒦ິ꒳꒦ີ)
+
+i'm **renzo** (he/they). i'm tending a garden 🌱

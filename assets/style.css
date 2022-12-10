@@ -1,15 +1,21 @@
 :root {
-    --accent: #2D9CDB;
+    --accent: #CE8BAE;
+    --accent-light: #e2c5d4;
     --grey: #444;
 }
 
 html {
     font-size:  100%;
     scroll-behavior: smooth;
+    background-color: #F5F5F5;
+}
+
+::selection {
+    background: var(--accent-light);
 }
 
 body {
-    font-family: Inter, sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     line-height: 1.65;
     
     display: flex;
@@ -77,7 +83,7 @@ p {margin-bottom: 1.15rem;}
 
 h1, h2, h3, h4, h5 {
   margin: 2.75rem 0 1.05rem;
-  font-weight: 400;
+  font-weight: bold;
   line-height: 1.15;
 }
 
