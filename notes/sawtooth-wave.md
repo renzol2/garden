@@ -8,7 +8,7 @@ A **sawtooth wave** is a [[waveform]] exhibiting periods with a ramp down (or up
 
 The [[spectrum]] of a sawtooth wave consists of all [[harmonic]]s in the [[harmonic-series|harmonic series]]. The [[amplitude]] of the $n$th harmonic can be given as $\frac{1}{n}$.
 
-![Sawtooth wave in the time domain](../public/attachments/sawtooth-wave.png)
+![Sawtooth wave in the time domain](../assets/sawtooth-wave.png)
 
 ## Sources
 

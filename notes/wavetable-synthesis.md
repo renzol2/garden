@@ -10,7 +10,7 @@ tags: synthesizers music synthesis sound ece-402
 
 Below is a diagram of a wavetable synthesizer:
 
-![Wavetable synthesizer diagram](../public/attachments/wavetable-synthesizer-diagram.png)
+![Wavetable synthesizer diagram](../assets/wavetable-synthesizer-diagram.png)
 
 Diagram explanation:
 

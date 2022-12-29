@@ -34,7 +34,7 @@ In detail (MUS 409):
   - phase array of phase spectrum - data corresponding to the inital phase of each frequency ycomponent
   - mag/phs arrays are made up of each individual, linearly spaced frequency bins, containing amplitude/phase information
 
-![FFT in detail](../public/attachments/fft-in-detail.png)
+![FFT in detail](../assets/fft-in-detail.png)
 
 - bin spacing determined by the following equation:
 

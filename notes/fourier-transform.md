@@ -9,7 +9,7 @@ A **Fourier Transform** is a mathematical tool for _frequency decomposition_, us
 - from MUS 409: a mathematical operation mapping a continuous signal to amplitude/phase data corresponding to spectrum
   - i.e. conversion of time domain to frequency domain
 
-![Time & frequency domain](../public/attachments/time-domain-frequency-domain.png)
+![Time & frequency domain](../assets/time-domain-frequency-domain.png)
 
 In practice, Fourier transforms are often used with [[fourier-inversion-theorem|inverse Fourier transforms]]: reproducing a signal (intensity over time) _from_ a Fourier Transform (intensity in terms of frequency)
 
@@ -28,7 +28,7 @@ Key concepts for understanding this function:
 - multiplying the exponential by the original input $g(t)$ means drawing a wound up version of that graph around the origin
 - an integral of a complex valued function can be interpreted in terms of a center-of-mass idea
 
-![3Blue1Brown's visual introduction to Fourier Transforms](../public/attachments/fourier-transform-visual-example.png)
+![3Blue1Brown's visual introduction to Fourier Transforms](../assets/fourier-transform-visual-example.png)
 
 ## Sound
 

@@ -40,4 +40,4 @@ Later versions: MUSIC 10, MUSIC 11, MUSIC 360 (Barry Vercoe, 1968)
 
 Collectively known as the **MUSIC-N** family of programming languages.
 
-![CSound example](../public/attachments/csound-example.png)
+![CSound example](../assets/csound-example.png)

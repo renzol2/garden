@@ -8,7 +8,7 @@ tags: algorithms computer-science graphs cs-374
 
 - good for exploring distances
 
-![BFS](../public/attachments/bfs.png)
+![BFS](../assets/bfs.png)
 
 ## Sources
 

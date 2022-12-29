@@ -12,7 +12,7 @@ $$
 
 Derivation:
 
-![Index increment derivation](../public/attachments/index-increment-derivation.png)
+![Index increment derivation](../assets/index-increment-derivation.png)
 
 Index increment and [[phase-increment|phase increment]] are essentially the same thing, where index increment has an implementation meaning whereas phase increment has a physical meaning (in relation to [[phase]]).
 

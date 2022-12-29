@@ -12,13 +12,13 @@ Example with downward [[compression]]:
 - Mild compression, peaks above -6 dBFS are slightly attenuated
 - More severe compression, peaks above -6 dBFS are more strongly attenuated
 
-![Transfer function mild compression](../public/attachments/transfer-function-mild-compression.png)
+![Transfer function mild compression](../assets/transfer-function-mild-compression.png)
 
 Most DRP transfer functions only display **one quadrant** to avoid redundancy.
 
 Typically, 0 dB input/output in upper right, axes labeled linearly with respect to dB.
 
-![Transfer function with one quadrant](../public/attachments/transfer-function-one-quadrant.png)
+![Transfer function with one quadrant](../assets/transfer-function-one-quadrant.png)
 
 ## Ratio
 
@@ -53,7 +53,7 @@ _Hard/soft_ knee refers to the smoothness of the transfer function graph across 
 
 ### Downward Compression Shape
 
-![Downward Compression Shape](../public/attachments/downward-compression-shape.png)
+![Downward Compression Shape](../assets/downward-compression-shape.png)
 
 ## Upward Compression Shape
 
@@ -61,8 +61,8 @@ _Hard/soft_ knee refers to the smoothness of the transfer function graph across 
 
 ## Downward Expansion Shape
 
-![Downward Expansion Shape](../public/attachments/downward-expansion-shape.png)
+![Downward Expansion Shape](../assets/downward-expansion-shape.png)
 
 ## Upward Expansion Shape
 
-![Upward Expansion Shape](../public/attachments/upward-expansion-shape.png)
+![Upward Expansion Shape](../assets/upward-expansion-shape.png)

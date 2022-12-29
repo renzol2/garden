@@ -8,7 +8,7 @@ A wavetable is an array in memory in which a fragment (usually a period) of a [[
 
 Example: a digital [[sine-wave|sine]] wave table of 64 [[sampling-signal-processing|samples]]
 
-![Digital sine wave waveform](../public/attachments/digital-sine-wave-waveform.png)
+![Digital sine wave waveform](../assets/digital-sine-wave-waveform.png)
 
 ## Usage
 

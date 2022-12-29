@@ -6,7 +6,7 @@ tags: mus-407 audio
 
 If two equidistant [[loudspeakers]] reproduce the same [[audio-signal|signal]], source "image" appears in-between.
 
-![localization](../public/attachments/localization-baseline.png)
+![localization](../assets/localization-baseline.png)
 
 - if one speaker is louder than the other, sense of direction shifts
 - if a small [[digital-delay-line|delay]] is introduced in `L`, perceived image shifts towards `R`

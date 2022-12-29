@@ -35,7 +35,7 @@ The Human Activity Assistive Technology model was developed to
 
 ## AT Flow Components
 
-![HAAT Model](../public/attachments/haat-model.png)
+![HAAT Model](../assets/haat-model.png)
 
 Human/technology interface
 
@@ -58,7 +58,7 @@ Environmental interface
 - "Smart technology" that senses input from the environment
 - Only very complex assistive technologies have this component
 
-![Mechanical reacher](../public/attachments/mechanical-reacher.png)
+![Mechanical reacher](../assets/mechanical-reacher.png)
 
 ## Sources
 

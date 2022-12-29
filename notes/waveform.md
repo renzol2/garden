@@ -13,7 +13,7 @@ A **waveform** refers to
 
 Example: a digital [[sine-wave|sine]] waveform
 
-![Digital sine wave waveform](../public/attachments/digital-sine-wave-waveform.png)
+![Digital sine wave waveform](../assets/digital-sine-wave-waveform.png)
 
 ## Types
 

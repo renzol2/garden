@@ -6,7 +6,7 @@ tags: dsp audio-programming audio
 
 The **feedback comb filter** uses feedback in its design as opposed to a feedforward signal like its counterpart.
 
-![Feedback comb filter](../public/attachments/feedback-comb-filter.png)
+![Feedback comb filter](../assets/feedback-comb-filter.png)
 
 The feedback comb filter is an example of an [[infinite-impulse-response|IIR]] digital [[filter]]. It can be regarded as a computational physical model of a _series_ of echoes.
 

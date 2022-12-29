@@ -8,7 +8,7 @@ A **delay line** is an elementary, functional [[audio-signal|audio signal]] proc
 
 - fundamental building block of [[digital-delay-line|digital delay effects]] and digital [[sound-synthesis|synthesis]] models
 
-![Delay line](../public/attachments/delay-line.png)
+![Delay line](../assets/delay-line.png)
 
 ## Localization
 

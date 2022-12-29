@@ -38,11 +38,11 @@ Digital Delay:
 
 Basic DDL (inherently stable):
 
-![Basic DDL Signal Flow](../public/attachments/basic-ddl-signal-flow.png)
+![Basic DDL Signal Flow](../assets/basic-ddl-signal-flow.png)
 
 Basic DDL with [[feedback]] (unstable if delayed signal [[amplitude]] > 1):
 
-![Basic DDL with feedback](../public/attachments/basic-ddl-with-feedback-signal-flow.png)
+![Basic DDL with feedback](../assets/basic-ddl-with-feedback-signal-flow.png)
 
 ## Delays in Parallel/Series
 
@@ -50,7 +50,7 @@ Basic DDL with [[feedback]] (unstable if delayed signal [[amplitude]] > 1):
 
 **Series**: signal is sent through a succession of delays; input/output are usually mixed at each stage
 
-![Delays in parallel/series](../public/attachments/delays-in-parallel-series.png)
+![Delays in parallel/series](../assets/delays-in-parallel-series.png)
 
 ## Implementation
 

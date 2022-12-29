@@ -8,7 +8,7 @@ A **sine wave** is the purest form of vibrational motion, also called simple har
 
 The [[spectrum]] of a sine wave consists of the [[fundamental]] [[partial]] alone. All complex vibrations are comprised of sine waves at different [[amplitude]]s by the [[fourier-theorem|Fourier theorem]].
 
-![Sine wave in the time domain](../public/attachments/sine-wave-time-domain.png)
+![Sine wave in the time domain](../assets/sine-wave-time-domain.png)
 
 [[sine-generator|Sine generators]] are used when [[sound-synthesis|synthesizing]] sine waves [[audio-signal|audio signals]].
 

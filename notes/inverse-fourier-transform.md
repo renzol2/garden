@@ -12,7 +12,7 @@ The **inverse fourier transform** is an application of the [[fourier-inversion-t
 - the IFFT will reconstruct the overall waveform with some inaccuracy due to amplitude envelope [[windowing|window functions]]
 - the inverse process often involves overlapping windows which are added together
 
-![Overlap-Add Resynthesis](../public/attachments/overlap-add-resynthesis.png)
+![Overlap-Add Resynthesis](../assets/overlap-add-resynthesis.png)
 
 ## Sources
 

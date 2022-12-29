@@ -27,7 +27,7 @@ This always produces non-negative values, provides more meaningful measurement, 
 
 ### RMS Tracking
 
-![RMS Tracking](../public/attachments/rms-tracking.png)
+![RMS Tracking](../assets/rms-tracking.png)
 
 General steps:
 
@@ -38,4 +38,4 @@ General steps:
 
 ### Example of RMS Tracking
 
-![Sine Wave RMS Tracking](../public/attachments/sine-wave-rms-tracking.png)
+![Sine Wave RMS Tracking](../assets/sine-wave-rms-tracking.png)

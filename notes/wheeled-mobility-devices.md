@@ -36,7 +36,7 @@ Adjustability
 - also aids in injury prevention
 - more adjustability = more expensive
 
-![Manual wheelchairs](../public/attachments/manual-wheelchairs.png)
+![Manual wheelchairs](../assets/manual-wheelchairs.png)
 
 ## Power wheelchairs (PWC)
 
@@ -47,7 +47,7 @@ A power wheelchair has an internal motor and is controlled via some type of mech
   - more functions = more expensive
 - Many adaptations can be made to a power wheelchair depending on the functional mobility of the user
 
-![Power wheelchairs](../public/attachments/power-wheelchairs.png)
+![Power wheelchairs](../assets/power-wheelchairs.png)
 
 ### Power seat functions
 
@@ -63,7 +63,7 @@ Power seat functions are functions that can be added onto power wheelchair to al
 - Most common way is with a joystick
 - Many alternative methods depending on the individual's hand function
 
-![Controlling PWC](../public/attachments/controlling-pwc.png)
+![Controlling PWC](../assets/controlling-pwc.png)
 
 ## Scooters
 

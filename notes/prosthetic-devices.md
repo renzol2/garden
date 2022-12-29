@@ -29,7 +29,7 @@ tags: rehb-330 tools-for-independent-living assistive-technology
 - Signals are amplified and activate a motor
 - Motor allows movement to control
 
-![Upper extremity prostheses](../public/attachments/upper-extremity-terminal-devices.png)
+![Upper extremity prostheses](../assets/upper-extremity-terminal-devices.png)
 
 ## Lower extremity prostheses
 

@@ -10,4 +10,4 @@ tags: music audio mus-407 digital-audio delay
 - can create a specific pattern of multiple echoes
 - may or may not include a [[feedback]] path
 
-![Multi-tap delay signal flow](../public/attachments/multi-tap-delay-signal-flow.png)
+![Multi-tap delay signal flow](../assets/multi-tap-delay-signal-flow.png)

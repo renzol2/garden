@@ -68,9 +68,9 @@ Who benefits from an EADL?
 
 ### Hardware
 
-![EADL keyboards](../public/attachments/eadl-keyboards.png)
+![EADL keyboards](../assets/eadl-keyboards.png)
 
-![EADL mice](../public/attachments/eadl-mice.png)
+![EADL mice](../assets/eadl-mice.png)
 
 ### Brain computer interface
 

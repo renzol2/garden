@@ -22,4 +22,4 @@ Many reverb algorithms are variations on the **Schroeder Reverb** design:
   - delay lines with [[feedback]]
 - [[all-pass-filter|all-pass filters]] introduce [[frequency]]-specific [[phase]] shifts to diffuse the sound and reduce [[resonance]]
 
-![Schroeder reverb design](../public/attachments/schroeder-reverb-design.png)
+![Schroeder reverb design](../assets/schroeder-reverb-design.png)

@@ -23,7 +23,7 @@ Individuals with [[disability|disabilities]] are often treated differently in th
 - Opportunity for social relationships
 - Development of a routine
 
-![Employment rates](../public/attachments/employment-population-ratios-by-disability-status-and-sex.png)
+![Employment rates](../assets/employment-population-ratios-by-disability-status-and-sex.png)
 
 ## Income statistics
 
@@ -32,7 +32,7 @@ Median household income:
 - persons without disabilities - $65,400
 - persons with disabilities - $36,000
 
-![Employment-population by educational attainment](../public/attachments/employment-population-ratios-educational-attainment.png)
+![Employment-population by educational attainment](../assets/employment-population-ratios-educational-attainment.png)
 
 ## Divide starts early
 
@@ -80,7 +80,7 @@ Children with disabilities do not always receive the same educational opportunit
 - enrollment of persons with disabilities has increased more than 20% from 2003 to 2009
   - rates of employments are still low!
 
-![Educational attainment of people with and without disabilities](../public/attachments/educational-attainment-of-people-with-without-disabilities.png)
+![Educational attainment of people with and without disabilities](../assets/educational-attainment-of-people-with-without-disabilities.png)
 
 ## Need for secondary education
 
