@@ -4,9 +4,9 @@ tags: mus-407 sound-waves sound
 
 # Sound Waves
 
-What is sound?
+Sound is the rapid change in air pressure caused by vibrations. (mu)
 
-- Vibration occurring in physical medium
+- Vibration occurring in physical medium, including air, fluids, and solids
 - Vibration causes particle displacement (disturbs particles)
 - Particle displacement causes pressure variations
 - Propagates away from source in all directions
@@ -15,11 +15,10 @@ What is sound?
 
 A sound wave transports energy/information, not particles themselves.
 
-The particles themselves do not move from point A to B (although they do move) - it's the **wave** through particles that move.
-
-While we think of longitudinal waves in 1 direction, it is important to remember that these sound waves move omnidirectionally
-
-- Ex: If I clap my hand, the waves will go out in a sphere
+- The particles themselves do not move from point A to B (although they do move) - it's the **wave** through particles that move.
+- While we think of longitudinal waves in 1 direction, it is important to remember that these sound waves move omnidirectionally
+  - Ex: If I clap my hand, the waves will go out in a sphere
+- Eventually, the sound wave hits the ear drums, where we process the sound in our brains
 
 ## Wave Types
 
@@ -68,3 +67,4 @@ When stimulated at one of its natural modes, an object exhibits increased vibrat
 ## Sources
 
 - [MUS 407 Sound, Acoustics, & Psychoacoustics](https://prezi.com/view/ZcqvwosFJCFJQtQrbP75/)
+- [mu](https://mu.krj.st/wave/)

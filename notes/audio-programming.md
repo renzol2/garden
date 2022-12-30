@@ -68,7 +68,7 @@ Speech enhancement (intelligibility) or sound enhancement ([[reverb|reverberatio
 
 ### Programming
 
-- A programming language like C, C++, and Python
+- A [[programming-language|programming language]] like C, C++, and Python
 - Software design & architecture
   - Languages are not the only aspect of programming
 

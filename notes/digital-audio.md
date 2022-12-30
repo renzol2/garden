@@ -4,13 +4,6 @@ tags: music mus-407 electroacoustic computer digital audio
 
 # Digital Audio
 
-- [Digital Audio](#digital-audio)
-  - [Key Terms](#key-terms)
-  - [Sampling (disambiguation)](#sampling-disambiguation)
-  - [Digital Audio Standards](#digital-audio-standards)
-  - [File Formats](#file-formats)
-  - [Sources](#sources)
-
 **Digital audio** is the representation of [[sound-waves|sound]] in a digital realm. Digital audio represents sound as a finite sequence of discrete values within an [[audio-signal|audio signal]], with each value representing a measurement of air pressure at a given point in time.
 
 ## Key Terms
@@ -23,7 +16,7 @@ tags: music mus-407 electroacoustic computer digital audio
 
 **[[bit-depth|bit depth]]**: the number of discrete digital values available for quantization (also called _sample resolution_ or _sample width_)
 
-**ADC**: analog-to-digital converter
+**[[ADC]]**: analog-to-digital converter
 
 **DAC**: digital-to-analog converter
 
