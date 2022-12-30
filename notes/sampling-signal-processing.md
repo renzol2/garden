@@ -1,10 +1,11 @@
 ---
+title: Sampling (signal processing)
 tags: music mus-407 electroacoustic computer digital audio sampling sample-rate bit-depth sample dynamic-range quantization
 ---
 
-# Sampling (Signal Processing)
+# Sampling (signal processing)
 
-Sampling involves taking periodic measurements of an analog [[audio-signal|signal]] and assigning a digital value to each measurement, facilitating the conversion from analog audio to [[digital-audio|digital audio]].
+**Sampling** involves taking periodic measurements of an analog [[audio-signal|signal]] and assigning a digital value to each measurement, facilitating the [[adc|conversion]] from [[analog-audio|analog audio]] to [[digital-audio|digital audio]].
 
 ## Concepts
 
@@ -19,7 +20,13 @@ Sampling involves taking periodic measurements of an analog [[audio-signal|signa
 
 To convert an analog signal to a digital signal, we take a periodic sample of the analog signal. The value we obtain is the [[amplitude]] of the signal at a specific point in time, corresponding to the pressure change captured by some device.
 
-We take a new sample at a specific rate, called the [[sample-rate|sample rate]]
+We take a new sample at a specific rate, called the [[sample-rate|sample rate]]. Abstractly, this sampling process can be viewed as a mathematical operation:
+
+$$x[n] = x(nT)$$
+
+where $x[n]$ is a discrete time signal indexed by an index $n \in \Z$ from the original analog signal $x(t)$ recorded every $T$ seconds. (or something like that...)
+
+Note that $T$ is the **sampling period**, which is just the inverse of the [[sample-rate|sample rate]].
 
 The amplitude measurement must be represented in a digital format through a process called [[quantization]]. Since digital values can only be expressed finitely, we must assign a range of values to work with to represent amplitude; we call this range [[bit-depth|bit depth]].
 

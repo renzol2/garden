@@ -19,3 +19,10 @@ The **sample rate** is the rate at which [[sampling-signal-processing|sampling]]
 Sampling is an inherently **discrete** process.
 
 - No knowledge of what happens in-between samples; this data is necessarily lost
+
+During [[sampling-signal-processing|sampling]], the sample rate is the number of samples the [[adc|ADC]] takes of an [[analog-audio|analog audio signal]] in one second.
+
+## Sources
+
+- MUS 407
+- [mu (wave)](https://mu.krj.st/wave/)
