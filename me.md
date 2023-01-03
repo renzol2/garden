@@ -5,4 +5,4 @@ title: me
 
 # me
 
-shit
+just look here lol: <https://renzomledesma.me/me>

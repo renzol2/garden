@@ -4,6 +4,14 @@ tags: rust strings
 
 # Strings (Rust)
 
+**Strings in Rust** are a type of data structure that store [[byte|bytes]] and provide useful functionality when these bytes represent text.
+
+[[rust|Rust]] tends to be verbose and explicit when handling strings as opposed to other [[programming-language|programming languages]] due to three factors:
+
+- UTF-8
+- Exposing potential bugs when dealing with strings
+- Strings being more complicated than most programmers think
+
 There are two primary "[[string]]" implementations in [[Rust]]:
 
 - the string slice `str`, which covers [[slices-rust|string slices]] (references to UTF-8 encoded string data in memory) and string literals (stored in program's binary)
@@ -73,12 +81,19 @@ let s = format!("{}-{}-{}", s1, s2, s3);
 
 `format!` uses references, so `s1`, `s2`, and `s3` all keep ownership of their values.
 
+## `String` in Rust
+
+There are three primary representations of the `String` struct in Rust:
+
+- as [[byte|bytes]]
+- as scalar values
+- as grapheme clusters (akin to what we'd call _letters_)
+
 ## Indexing
 
 You can't index into strings in Rust.
 
-- strings can be represented as collections of [[byte|bytes]], characters, or grapheme clusters
-- Rust does not decide which of these to use for indexing
+- Rust does not decide which of these to use for indexing, due to the multiple possible representations of strings
 - using [[slices-rust|string slices]] looks at the byte representation
 
 ## Iterating
