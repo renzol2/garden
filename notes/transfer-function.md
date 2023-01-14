@@ -30,7 +30,7 @@ Example: [[compression]] ratio of 4:1
 
 - above threshold, if input signal increases by 4 dB, output signal is attenuated so that the increase is only 1 dB
 - ratios of 8:1 and above are generally considered "extreme" compression
-- can result in a perceptual distortion of [[transient]]s, noticeable changes in [[timbre]], often described as a "squashed" sound
+- can result in a perceptual [[distortion-audio|distortion]] of [[transient]]s, noticeable changes in [[timbre]], often described as a "squashed" sound
 
 ## Knee
 

@@ -22,7 +22,7 @@ Certain compatibility issues arise when converting between different levels:
   - low level or noisy signal
   - poor signal-to-[[noise]] ratio (SNR)
 - _high_ level signal to _low_ level input:
-  - signal distortion
+  - [[distortion-audio|signal distortion]]
   - possible equipment damage
 
 ## Sources

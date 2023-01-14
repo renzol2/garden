@@ -4,7 +4,7 @@ tags: music compression mus-407 production dynamics drp dynamic-range-compressio
 
 # Compression
 
-**Compression** is a form of [[dynamic-range-processing|dynamic range control]] that (generally) reduces the [[dynamic-range|dynamic range]] of a signal. A _compressor_ is an amplifier whose gain is determined by an input [[audio-signal|signal]] level
+**Compression** is a form of [[dynamic-range-processing|dynamic range control]] that reduces the [[dynamic-range|dynamic range]] of a signal. A _compressor_ is an amplifier whose gain is determined by an input [[audio-signal|signal]] level
 
 - when signal level > [[amplitude]] threshold, compression effect becomes active and attenuates a signal
 
@@ -34,7 +34,7 @@ The severity of signal attenuation is determined by a _compression [[ratio-drp|r
 
 Downward compression ratios of 8:1 and above are generally considered "extreme" compression
 
-- Can result in a perceptual distortion of [[transient|transients]], noticeable changes in [[timbre]], often described as a "squashed" sound
+- Can result in a perceptual [[distortion-audio|distortion]] of [[transient|transients]], noticeable changes in [[timbre]], often described as a "squashed" sound
 - A compressors with ratios above 10:1 would generally be considered a [[limiter]]
 
 ## Makeup gain

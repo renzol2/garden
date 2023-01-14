@@ -1,5 +1,5 @@
 ---
-tags: mus-407 musique-concrete electroacoustic music
+tags: mus-407 musique-concrete electroacoustic music audio-effects
 ---
 
 # Tape Delay

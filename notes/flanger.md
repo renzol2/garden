@@ -1,5 +1,5 @@
 ---
-tags: mus-407 delay delay-line
+tags: mus-407 delay delay-line audio-effects
 ---
 
 # Flanger

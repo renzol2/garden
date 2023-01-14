@@ -1,5 +1,5 @@
 ---
-tags: compression production music
+tags: compression production music audio-effects
 ---
 
 # Serial Compression

@@ -1,5 +1,5 @@
 ---
-tags: music mus-407 electroacoustic dynamic-range
+tags: music mus-407 electroacoustic dynamic-range audio-effects
 ---
 
 # Compander

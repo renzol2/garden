@@ -1,5 +1,5 @@
 ---
-tags: dsp audio-programming audio delay-line
+tags: dsp audio-programming audio delay-line audio-effects
 ---
 
 # Delay Line

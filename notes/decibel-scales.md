@@ -23,6 +23,6 @@ Decibels are often used to describe [[audio-signal|audio signal]] levels.
 - **digital**: `dBFS` (relative to _full scale_)
 - What does 0 dB mean?
   - _analog_: nominal operating level, optimal I/O linearity
-  - _digital:_ highest representable level without introducing clipping/distortion
+  - _digital:_ highest representable level without introducing clipping/[[distortion-audio|distortion]]
     - positive digital dBFS values are **_bad_**: clipping, nasty distortion
 - signal levels below 0 dB have negative values

@@ -1,5 +1,5 @@
 ---
-tags: mus-407 digital-audio audio audio-programming
+tags: mus-407 digital-audio audio audio-programming audio-effects
 ---
 
 # Digital Delay Line

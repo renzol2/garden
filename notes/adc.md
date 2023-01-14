@@ -16,7 +16,7 @@ The behavior of an ADC is as follows:
 
 - Have an [[analog-audio|analog audio signal]] in mind (either in theory or recorded)
 - Sample the signal
-- Hope to reconstruct the signal correctly, or with minimal distortion
+- Hope to reconstruct the signal correctly, or with minimal [[distortion-audio|distortion]]
 
 ## Sources
 

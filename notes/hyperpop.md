@@ -40,11 +40,11 @@ Elements used:
 
 ### Chorus
 
-Hyperpop choruses are characterized by **808s**, heavy **distortion**, and **exaggerated vocals**.
+Hyperpop choruses are characterized by **808s**, heavy [[distortion-audio|distortion]], and **exaggerated vocals**.
 
 **808s**: within hyperpop, most artists either pitch-shift samples or create their own presents/patches for more control on the 808's sound.
 
-- characterized by heavy distortion
+- characterized by heavy [[distortion-audio|distortion]]
 - at its core: every 808 is a [[kick]] and a distorted [[sine-wave]] played at the same time
 - many artists make their 808s _wide_, spreading across the stereo field
 
@@ -52,7 +52,7 @@ Hyperpop choruses are characterized by **808s**, heavy **distortion**, and **exa
 
 - vocals are often layered; if not, they employ heavy effect chains:
   - [[multiband-compression|multiband compression]]
-  - distortion
+  - [[distortion-audio|distortion]]
   - autotune
   - [[reverb]]
 - when layered, vocals are usually harmonized in octaves and thirds (both above/below, depending on what's usually diatonic)

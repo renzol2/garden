@@ -1,6 +1,6 @@
 ---
 title: Reverb
-tags: audio mus-407 digital-audio delay
+tags: audio mus-407 digital-audio delay audio-effects
 ---
 
 # Reverb

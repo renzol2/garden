@@ -10,7 +10,7 @@ Periodic signals exhibit a regular, predictable pattern of quantization error.
 
 - smooth signals take on a more [[square-wave|square]]-like appearance
 - low [[amplitude]] signals have access to fewer resolution points, and are therefore particularly prone
-- results in additional high-[[frequency]] components in the [[spectrum]], also called harmonic distortion
+- results in additional high-[[frequency]] components in the [[spectrum]], also called harmonic [[distortion-audio|distortion]]
 - **dithering** is the solution to spreading the noise across the spectrum
 
 Dithering is an option when exporting audio from a DAW.

@@ -1,5 +1,5 @@
 ---
-tags: music mus-407 electroacoustic dynamic-range dynamics
+tags: music mus-407 electroacoustic dynamic-range dynamics audio-effects
 ---
 
 # Dynamic Range Processing

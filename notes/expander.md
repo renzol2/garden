@@ -1,5 +1,5 @@
 ---
-tags: music mus-407 electroacoustic dynamic-range expander
+tags: music mus-407 electroacoustic dynamic-range expander audio-effects
 ---
 
 # Expander
