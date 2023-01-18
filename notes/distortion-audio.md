@@ -30,6 +30,12 @@ This results in a **non-linear** system, whereas most audio effects operate unde
 
 When implemented with a characteristic curve, distortion is **time-invariant**, since output samples depend only on input samples and not the time at which they are processed.
 
+Distortion by characteristic curve is also **memoryless**, since the implementation does not require any previous or future samples - it just needs the current input sample to make the output sample.
+
+## Hard clipping & soft clipping
+
+Distortion effects are often categorized by whether they produce [[hard-clipping]] or soft-clipping.
+
 ## Sources
 
 - <https://en.wikipedia.org/wiki/Distortion_(music)>
