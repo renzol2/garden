@@ -1,10 +1,12 @@
 ---
-tags: ece-402 dsp
+tags: ece-402 dsp cs-448
 ---
 
 # Discrete Fourier Transform
 
-A **Discrete Fourier Transform (DFT)** converts a sequence of equally-spaced discrete samples into a complex-valued function of [[frequency]].
+A **Discrete fourier transform (DFT)** is a conversion between a discrete [[time-domain|time domain]] representation and a discrete [[frequency-domain|frequency domain]] representation of a signal.
+
+It converts a sequence of equally-spaced discrete samples into a complex-valued function of [[frequency]].
 
 - the resulting complex-valued function is called the **Discrete-Time Fourier Transform (DTFT)**
 - from MUS 409: a version of the [[fourier-transform|Fourier Transform]] for discrete (i.e. [[digital-audio|digital]], [[sampling-signal-processing|sampled]]) [[audio-signal|signals]]
@@ -20,3 +22,4 @@ DFTs are almost always implemented using Fast Fourier Transform (FFT) algorithms
 
 - <https://en.wikipedia.org/wiki/Discrete_Fourier_transform>
 - <https://download.ni.com/evaluation/pxi/Understanding%20FFTs%20and%20Windowing.pdf>
+- CS 448

@@ -1,5 +1,5 @@
 ---
-tags: music mus-407 signal-processing sampling
+tags: music mus-407 signal-processing sampling cs-448
 ---
 
 # Aliasing
@@ -14,6 +14,8 @@ Imagine a [[sampling-signal-processing|sampled]] analog input with [[spectrum|sp
 - Foldover occurs as the [[waveform]] is sampled
 - Results in unnecessary and/or unwanted interference (either constructive or destructive)
 - Alias frequencies interfere/sum with sub-$N$ frequencies, altering the spectrum
+
+**Rule of thumb**: sample **at least twice** the highest frequency you record
 
 ## ADC/DAC Conversion Process
 
@@ -32,3 +34,7 @@ _Aliasing_ in general does not exist just in audio, but in _anything_ digital.
 - in this case, _resolution_ of a digital image is similar to _sample rate_ of digital audio
 
 
+## Sources
+
+- MUS 407
+- CS 448

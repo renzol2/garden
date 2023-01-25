@@ -1,8 +1,9 @@
 ---
+title: Sample rate
 tags: music mus-407 electroacoustic computer digital audio sampling sample-rate sample
 ---
 
-# Sample Rate
+# Sample rate
 
 The **sample rate** is the rate at which [[sampling-signal-processing|sampling]] occurs in a digital system. These rates have been largely standardized throughout the audio industry as follows:
 

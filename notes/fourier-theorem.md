@@ -1,5 +1,5 @@
 ---
-tags: mus-407 spectrum timbre sound
+tags: mus-407 spectrum timbre sound cs-448
 ---
 
 # Fourier Theorem
@@ -26,6 +26,13 @@ The Fourier theorem also has an [[fourier-inversion-theorem|inverse theorem]], w
 The Fourier Theorem can be applied to [[sound-waves|sound waves]] to pick out specific frequencies present in a [[spectrum]].
 
 > Any **sound** comprised of a periodic waveform can be expressed as a sum of [[sine-wave|sine waves]]
+
+Sine waves are elementary building blocks for any sound
+
+- Fast changes: high frequency content
+- Smooth waveform: low frequency content
+
+You can express a waveform with sine waves if you have all amplitudes and phases for all possible frequencies - this can be achieved with the [[fourier-transform|Fourier transform]]
 
 ## Sources
 

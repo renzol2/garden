@@ -34,3 +34,12 @@ Bit depth determines the maximum [[dynamic-range|dynamic range]] of a digital au
 - signals at or below -48 dBFS will be unresolvable from the [[noise-floor|noise floor]]
 
 Reducing the bit depth, and therefore dynamic range, does _not_ reduce the number of samples taken (the sample rate). We can still represent high [[frequency|frequency]] content, but reducing the bit depth reduces the dynamic range at which we can represent the audio content.
+
+## Tradeoffs between dynamic range and memory
+
+A large dynamic range lets us represent sound at extremely varied loudness. However, the memory requirements for increasing the dynamic range get very expensive past 16-bits.
+
+## Sources
+
+- MUS 407
+- CS 448

@@ -11,6 +11,11 @@ The **frequency domain** is a representation of signals or waves (including [[so
 
 ![Frequency domain](../assets/frequency-domain.png)
 
+We can analyze the [[spectrum]] of a sound with this domain.
+
+A limitation of frequency domain is that we get no temporal information.
+
 ## Sources
 
 - [MUS 407 Sound, Acoustics, & Psychoacoustics](https://prezi.com/view/ZcqvwosFJCFJQtQrbP75/)
+- CS 448
