@@ -9,10 +9,12 @@ Subtractive synthesis is the process of generating [[sound-waves|sound]] by usin
 - filters attenuate spectral regions from a source sound
 - filters are often highly selective and/or used in series
 - noise generators as tone generators by routing noise through highly selective filters
+- popular with [[analog-synthesizers|analog synthesizers]]
 
 Subtractive synthesis was used as an early technique in [[electroacoustic-music|electroacoustic music]].
 
 ## Sources
 
 - MUS 407 The Studio Age: Musique Concrète
+- CS 448
 - TODO: add sources

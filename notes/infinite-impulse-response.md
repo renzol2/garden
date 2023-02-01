@@ -1,4 +1,5 @@
 ---
+title: Infinite impulse response (IIR)
 tags: mus-407 filters
 ---
 
@@ -10,6 +11,9 @@ tags: mus-407 filters
 - unstable, can self-oscillate (analog) or output explosive values ([[digital-audio|digital]])
 - this feedback enables amplification of the [[spectrum]] (i.e. [[additive-eq|additive EQ]])
 
+They are not applied with plain convolution - they use _feedback_ to produce infinitely long effects
+
 ## Sources
 
 - MUS 407 Filters
+- CS 448

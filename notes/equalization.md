@@ -20,6 +20,22 @@ tags: mus-407 filters
   - **parametric** = independent bandwidth control
   - **semiparametric** = bandwidth is a fixed musical interval
 
+## Uses
+
+Enthusiasts
+
+- Change music characteristics
+- Make up for quirks in headphones/loudspeakers
+
+Sound engineers
+
+- Compensate for poor acoustics or feedback
+- Enhance quality of recorded sound
+
+Hearing devices
+
+- Compensate for [[hearing-impairments]] in certain frequency ranges and thresholds
+
 ## Sources
 
 - MUS 407 Filters
