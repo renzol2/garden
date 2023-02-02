@@ -1,5 +1,5 @@
 ---
-tags: mus-407 filters cs-448
+tags: mus-407 filters cs-448 audio-effects
 ---
 
 # Filter
@@ -10,7 +10,18 @@ A **filter** is a device that alters a [[sound-waves|sound's]] [[spectrum]].
 - broad definition applies to things not designed specifically to be filters (e.g. rooms, mouths, etc.)
 - most effective when applied to a wide/rich spectrum
 
-Multiple filters are used within [[equalization]] (EQ). In [[audio]], most filters are low-order filters, which are simpler in design and less susceptible to error.
+Multiple filters are used within [[equalization]] (EQ). In [[audio]], most filters are low-[[filter-order|order]] filters, which are simpler in design and less susceptible to error.
+
+## Digital filter representations
+
+There are several ways to represent a linear digital filter:
+
+- Difference equation
+- Block diagram
+- Impulse response (this one is useful for musicians)
+- Transfer function
+- Poles, zeroes, and gain
+- Magnitude and phase response
 
 ## Classic filters
 

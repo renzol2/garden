@@ -18,7 +18,7 @@ Distortion effects affect signals in various ways:
 
 There are often three terms used for 'distortion' effects:
 
-- [[overdrive|Overdrive]]: a nearly linear effect for low level signals, but increasingly nonlinear at high levels
+- [[overdrive|Overdrive]]: a nearly [[linear-system|linear]] effect for low level signals, but increasingly [[nonlinear-system|nonlinear]] at high levels
 - Distortion: nonlinear effect on most all signal levels
 - [[fuzz|Fuzz]]: complete nonlinear effect that creates drastic changes to input [[waveform]]; often hard or harsh sounding
 

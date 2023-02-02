@@ -5,7 +5,10 @@ tags: dsp audio-effects
 
 # Hard clipping 
 
-**Hard clipping** is a [[distortion-audio|distortion]] effect that is an intentional use of [[digital-clipping|digital clipping]] to add [[harmonic|harmonics]] to a [[sound-waves|sound]].
+**Hard clipping** is a [[distortion-audio|distortion]] effect that limits the output gain of a signal with no rounding.
+
+- sometimes used to produce [[digital-clipping|digital clipping]] and add [[harmonic|harmonics]] to a [[sound-waves|sound]].
+- characterized as harsh and bright
 
 ## Sources
 

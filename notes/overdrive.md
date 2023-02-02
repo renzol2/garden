@@ -5,7 +5,7 @@ tags: dsp audio-effects
 
 # Overdrive
 
-**Overdrive** is a [[distortion-audio|distortion]] effect that acts linearly on low-level [[audio-signal|audio signals]], but increasingly nonlinearly on higher level signals.
+**Overdrive** is a [[distortion-audio|distortion]] effect that acts [[linear-system|linearly]] on low-level [[audio-signal|audio signals]], but increasingly [[nonlinear-system|nonlinearly]] on higher level signals.
 
 ## Implementation
 
