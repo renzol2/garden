@@ -13,24 +13,29 @@ tags: mus-407 filters
 
 [[filter|Filters]] on EQ are capable of both signal amplification _or_ attenuation ("boost" or "cut")
 
+Examples of [[shelving-filter|shelving filters]]:
 - [[low-shelf|Low shelf]]
 - [[high-shelf|High shelf]]
+
+Examples of broader EQ designs:
+
 - [[semi-parametric-eq|Semi-parametric EQ]]
 - [[parametric-eq|Parametric EQ]]
   - **parametric** = independent bandwidth control
   - **semiparametric** = bandwidth is a fixed musical interval
+- [[graphic-eq|Graphic EQ]]
 
 ## Uses
 
 Enthusiasts
 
 - Change music characteristics
-- Make up for quirks in headphones/loudspeakers
+- Make up for quirks in headphones/[[loudspeakers]]
 
 Sound engineers
 
-- Compensate for poor acoustics or feedback
-- Enhance quality of recorded sound
+- Compensate for poor acoustics or [[feedback]] 
+- Enhance quality of [[recording|recorded]] sound
 
 Hearing devices
 
@@ -39,3 +44,4 @@ Hearing devices
 ## Sources
 
 - MUS 407 Filters
+- CS 448 Filters

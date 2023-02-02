@@ -5,9 +5,10 @@ tags: dsp cs-448
 
 # Shelving filter
 
-A shelving filter is typically a [[low-pass-filter]] or [[high-pass-filter]] that supresses all frequencies in a stopband.
+A shelving filter aims to boost or cut a particular [[frequency]] region of an [[audio-signal|audio signal]].
 
-- usually seen as a high shelf or low shelf filter
+- typically analagous to a [[low-pass-filter]] or [[high-pass-filter]], but instead of  supressesing all [[frequency|frequencies]] in a stopband, it merely attenuates them
+- usually seen as a [[high-shelf|high shelf]] or [[low-shelf|low shelf]] filter
 
 ## Sources
 

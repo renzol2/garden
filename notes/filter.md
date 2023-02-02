@@ -10,7 +10,7 @@ A **filter** is a device that alters a [[sound-waves|sound's]] [[spectrum]].
 - broad definition applies to things not designed specifically to be filters (e.g. rooms, mouths, etc.)
 - most effective when applied to a wide/rich spectrum
 
-Multiple filters are used within [[equalization]] (EQ).
+Multiple filters are used within [[equalization]] (EQ). In [[audio]], most filters are low-order filters, which are simpler in design and less susceptible to error.
 
 ## Classic filters
 
@@ -21,13 +21,16 @@ Classic filter types are only capable of signal attenuation.
 - [[high-pass-filter|High pass filter]]
 - [[low-pass-filter|Low pass filter]]
 
-## IIR vs. FIR
+## FIR vs. IIR
 
-- See: [[finite-impulse-response]] vs. [[infinite-impulse-response]]
+There is an important distinction between [[finite-impulse-response|FIR]] filters and [[infinite-impulse-response|IIR]] filters.
+
+FIR filters are stable and do not involve [[feedback]], whereas IIR filters can be unstable and explosive due to their use of feedback in their design.
 
 ## Characteristics
 
 - [[cutoff-frequency|Cutoff frequency]]
+- [[q-factor|Q factor]]
 
 ## Arbitrary filter responses
 

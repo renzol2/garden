@@ -20,7 +20,7 @@ There are often three terms used for 'distortion' effects:
 
 - [[overdrive|Overdrive]]: a nearly linear effect for low level signals, but increasingly nonlinear at high levels
 - Distortion: nonlinear effect on most all signal levels
-- Fuzz: complete nonlinear effect that creates drastic changes to input [[waveform]]; often hard or harsh sounding
+- [[fuzz|Fuzz]]: complete nonlinear effect that creates drastic changes to input [[waveform]]; often hard or harsh sounding
 
 ## Implementation
 
@@ -34,7 +34,7 @@ Distortion by characteristic curve is also **memoryless**, since the implementat
 
 ## Hard clipping & soft clipping
 
-Distortion effects are often categorized by whether they produce [[hard-clipping]] or soft-clipping.
+Distortion effects are often categorized by whether they produce [[hard-clipping|hard clipping]] or soft-clipping.
 
 ## Sources
 
