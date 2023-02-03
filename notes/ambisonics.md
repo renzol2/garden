@@ -20,6 +20,17 @@ Early 70s - push to make quadraphonic sound a commercial phenomenon, but it neve
 - at this time, Gerzon and his colleagues worked on early ambisonic developments
 - Gerzon actually disapproved of quadraphonic sound, since he claimed it didn't produce a significant improvement from stereophonic 
 
+## Ingredients
+
+- Ambisonic order
+- Component ordering
+- Component normalization
+- Reference radius
+
+Ambisonic order and component ordering is more important.
+
+Component normalization and reference radius are less vital.
+
 ## Sources
 
 - MUS 499C
