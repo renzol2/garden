@@ -19,6 +19,16 @@ Comb filters are just **[[digital-delay-line|delay lines]] with [[feedback]]**
   - creates peaks in the [[spectrum]]
 - conversely, any harmonic that has 1.5/2.5/3.5/etc. times the [[frequency]] of the original partial will experience 100% [[wave-interference|destructive interference]]
 
+## Uses
+
+We can use feedback comb filters to model infinite [[echo|echoes]]:
+
+$$
+y[t] = x[t] + gyt[t-N]
+$$
+
+This is useful for implementing digital [[reverb]].
+
 ## Sources
 
 - <https://ccrma.stanford.edu/~jos/pasp/Feedback_Comb_Filters.html>

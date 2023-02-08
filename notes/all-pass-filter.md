@@ -9,6 +9,10 @@ An **allpass filter** is a [[sampling-signal-processing|signal processing]] [[fi
 
 - useful for [[delay-line|delay]] effects
 
+An allpass filter is actually a combination of two different [[comb-filter|comb filters]]: a [[feedback-comb-filter]] and a [[feedforward-comb-filter]].
+
+- the result is a filter that produces [[echo|echoes]], but doesn't color the sound at all
+
 ## Allpass systems
 
 There are several systems that have the "allpass" property, i.e. they do not affect the magnitude of any frequencies.

@@ -1,2 +1,0 @@
-# sound-waves|sound's
-

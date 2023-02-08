@@ -8,6 +8,7 @@ tags: mus-305 mus-407 filter
 
 There are two types of comb filters: [[feedforward-comb-filter|feedforward]] and [[feedback-comb-filter|feedback]].
 
+
 ## Sources
 
 - <https://ccrma.stanford.edu/~jos/pasp/Comb_Filters.html>
