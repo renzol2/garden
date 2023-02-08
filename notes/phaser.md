@@ -4,7 +4,7 @@ tags: mus-407 delay delay-line
 
 # Phaser
 
-A **phaser** effect is a [[variable-delay-effects|variable delay effect]] (also known as _phase-shifting_ or _phasing_) where an [[audio-signal]] is fed through a series of [[all-pass-filter]]s, introducing a [[frequency]]-specific [[phase]] shift.
+A **phaser** effect is a [[variable-delay-effects|variable delay effect]] (also known as _phase-shifting_ or _phasing_) where an [[audio-signal|audio signal]] is fed through a series of [[all-pass-filter]]s, introducing a [[frequency]]-specific [[phase]] shift.
 
 - [[oscillator]] modulates amount of phase-shift
 - sweeping peaks and nulls appear in [[spectrum]], related to number of all-pass filter "stages"
@@ -13,5 +13,9 @@ A **phaser** effect is a [[variable-delay-effects|variable delay effect]] (also 
 
 The resulting sound is similar to the [[flanger]]
 
-- flanging → variable-delay [[comb-filter]]
-- phasing → variable-delay [[all-pass-filter]]
+- flanging → variable-delay [[comb-filter|comb filter]]
+- phasing → variable-delay [[all-pass-filter|all pass filter]]
+
+## Sources
+
+- MUS 407

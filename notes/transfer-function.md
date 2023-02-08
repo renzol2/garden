@@ -4,6 +4,16 @@ tags: dynamic-range-processing mus-407 compression expansion
 
 # Transfer Function
 
+A **transfer function** has multiple meanings in [[digital-signal-processing|DSP]], detailed below.
+
+## Digital filters
+
+For digital [[filter|filters]], a **transfer function** is a [[fourier-transform|Fourier transform]] or [[z-transform|Z transform]] of its [[impulse-response|impulse response]].
+
+- usually denoted with $H$
+
+## Dynamic range processing
+
 A **transfer function** converts a [[audio-signal|signal]] input to an output, usually applying some change. In [[dynamic-range-processing|DRP]], the signals are measured in [[decibel|dB]], and the shape of the transfer function determines the effect.
 
 Example with downward [[compression]]:
@@ -20,7 +30,7 @@ Typically, 0 dB input/output in upper right, axes labeled linearly with respect 
 
 ![Transfer function with one quadrant](../assets/transfer-function-one-quadrant.png)
 
-## Ratio
+### Ratio
 
 The severity of signal processing is determined by a _ratio_.
 
@@ -32,7 +42,7 @@ Example: [[compression]] ratio of 4:1
 - ratios of 8:1 and above are generally considered "extreme" compression
 - can result in a perceptual [[distortion-audio|distortion]] of [[transient]]s, noticeable changes in [[timbre]], often described as a "squashed" sound
 
-## Knee
+### Knee
 
 When signal level crosses a threshold, DRP ratio may be applied fully or gradually, depending on _knee curve_
 
@@ -42,7 +52,7 @@ _Hard/soft_ knee refers to the smoothness of the transfer function graph across 
 - a soft knee curves gently between affected and unaffected [[amplitude]] regions
 - differences between hard/soft knee tend to be very subtle, almost indistinguishable
 
-## Drawing Transfer Functions
+### Drawing Transfer Functions
 
 - Mark threshold (threshold is _always_ on the horizontal axis)
 - Determine type of effect
@@ -51,18 +61,22 @@ _Hard/soft_ knee refers to the smoothness of the transfer function graph across 
   - **upward [[expander]]**: draw the transfer function at threshold, then apply makeup gain downwards
 - Based on input parameters, draw graph
 
-### Downward Compression Shape
+#### Downward Compression Shape
 
 ![Downward Compression Shape](../assets/downward-compression-shape.png)
 
-## Upward Compression Shape
+### Upward Compression Shape
 
 [[upward-compression]]
 
-## Downward Expansion Shape
+### Downward Expansion Shape
 
 ![Downward Expansion Shape](../assets/downward-expansion-shape.png)
 
-## Upward Expansion Shape
+### Upward Expansion Shape
 
 ![Upward Expansion Shape](../assets/upward-expansion-shape.png)
+
+## Sources
+
+- MUS 407
