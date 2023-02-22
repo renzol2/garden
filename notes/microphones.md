@@ -24,7 +24,9 @@ Other types of microphones:
 - **USB mic**: connects directly to computer with built-in [[preamplifier]] and analog-to-digital converter
 - **Contact mic**: affixes to solid material, picks up vibrations through physical contact
 - **Carbon mic**: pressure on carbon granules creates variations in electrical resistance (old design, infrequently used today)
+- **Parabolic microphone**: a microphone in front of a dish that focuses sound in front into the microphone
 
 ## Sources
 
 - MUS 407 Sound Reproduction Systems
+- CS 448 Microphone Arrays
