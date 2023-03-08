@@ -10,4 +10,4 @@ The **fundamental** is the lowest [[partial]] in a [[spectrum]]. In the context 
 
 ## Sources
 
-- TODO: find sources
+- CS 448: Pitch tracking and modifications

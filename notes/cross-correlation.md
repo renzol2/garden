@@ -1,11 +1,11 @@
 ---
 title: Cross correlation
-tags:
+tags: cs-448
 ---
 
 # Cross correlation
 
-Cross correlation allows us to [[localization|localize]] a [[sound-waves|sound]] using inputs from a [[microphone-array|microphone array]]. We masure signal correlation using
+Cross correlation allows us to [[localization|localize]] a [[sound-waves|sound]] using inputs from a [[microphone-array|microphone array]]. We measure signal correlation using
 
 $$
 c[d] = \Sigma_{t} y_1[t] y_2[t + d]

@@ -16,6 +16,8 @@ The naïve method to pitch shift is to play back a sample at a different rate.
 - a faster playback would be at rates > 1.0 (ex. octave up would be rate 2.0)
 - a slower feedback would be at rates < 1.0 (ex. octave down would be rate 0.5)
 
+In a digital context, this would essentially be changing the [[sample-rate|sample rate]].
+
 This method raises several problems:
 
 - any vibrato or tremolo changes speed
@@ -34,6 +36,27 @@ There are a few fixes to these problems:
 - insert zeros (for speech) - adding zero samples before glottal pulses reflects mouth shape (resonances, decay rates), even at different pitches
 - use an entirely different algorithm, such as Lent's algorithm
 
+## PSOLA
+
+**Pitch synchronous overlap add** finds the periods of the input signal and spaces them farther apart, or closer, to alter pitch.
+
+- the characteristic period shape should stay the same in the [[time-domain|time domain]]; they should _not_ stretch out
+
+## Applications
+
+## Pitch correction
+
+- Identify pitched areas, since unpitched areas are useless
+- Identify preselected frequencies that are "correct", i.e. notes of a [[music-scale|music scale]]
+- Quantize (to some degree) the pitch
+
+## Changing pitch intonation
+
+"Emotion changing" of a speech signal
+
+- Exaggerate pitch for more excitement
+- Flatten pitch for less emotion
+
 ## Sources
 
--
+- ECE 402
