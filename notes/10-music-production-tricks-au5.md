@@ -8,11 +8,11 @@ type: video-notes
 TL;DR:
 
 1. 4.5db per octave
-2. spectrogram hidden image
+2. [[spectrogram]] hidden image
 3. mastering automation
-4. removing fundamental
+4. removing [[fundamental]] 
 5. bass modulation transients
-6. de-phased saw
+6. de-phased saw wave
 7. corpus for texture
 8. quanta noise
 9. staccato after legato

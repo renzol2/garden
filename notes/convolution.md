@@ -31,7 +31,7 @@ It can be sped up significantly using [[fast-fourier-transform|FFT]], with an [[
 
 ### Overlap-add fast convolution
 
-Similar to spectrograms:
+Similar to [[spectrogram|spectrograms]]:
 
 1. Make frames
 2. Convolve frames using [[fast-fourier-transform]]
