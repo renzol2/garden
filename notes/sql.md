@@ -1,5 +1,5 @@
 ---
-tags: programming-languages sql
+tags: programming-languages sql computer-science
 ---
 
 # SQL
