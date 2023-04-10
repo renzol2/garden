@@ -1,10 +1,11 @@
 ---
+title: Oscillator
 tags: synthesis
 ---
 
 # Oscillator
 
-An **oscillator** is any unit capable of generating [[sound-synthesis|sound]]. They are the workhorse of [[sound-synthesis|sound synthesis]].
+An **oscillator** is any unit capable of generating signals (typically [[audio-signal|audio signals]], but sometimes signals at lower [[frequency|frequencies]]) for use in [[sound-synthesis|sound synthesis]]. They are the workhorse of [[additive-synthesis|additive synthesis]].
 
 - usually a unit within a [[synthesizer]]
 - typically has some [[amplitude]] and [[frequency]] input, as well as the type of [[waveform]] it produces
