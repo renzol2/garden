@@ -10,6 +10,8 @@ The **vacuum tube** is an invention from the 1920s that allowed control and ampl
 - applications in television, radio, computing, etc.
 - spurred invention of numerous electrical musical instruments
 
+Vacuum tubes are often used in [[distortion-audio|distortion]] circuits for adding distortion and saturation to [[audio]] circuits.
+
 ## Sources
 
 - MUS 407 History of Electroacoustic Music: Early Instruments
