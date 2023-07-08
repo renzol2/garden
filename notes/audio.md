@@ -1,6 +1,6 @@
 ---
 title: Audio
-tags: cs-448 mus-407 mus-409
+tags: cs-448 mus-407 mus-409 dsp
 ---
 
 # Audio
@@ -19,7 +19,7 @@ Long time ago:
 
 - Pythagoras (music) was the first to do "serious" work on music and sound
 - Vitruvius (architectural acoustics): hypothesized that [[sound-waves|sound]] works as a 3-dimensional [[waveform|wave]]
-    - Made the first acoustic [[equalization|equalizers]] for sound
+  - Made the first acoustic [[equalization|equalizers]] for sound
 
 Some time ago:
 
@@ -29,7 +29,7 @@ Some time ago:
 A little later:
 
 - Helmholtz (physiology)
-- Raleigh (*Theory of Sound*)
+- Raleigh (_Theory of Sound_)
 
 The electrical age:
 
@@ -45,7 +45,7 @@ Recording
 
 Modern audio technologies
 
-- Tape machines, recording studios
+- [[tape|Tape]] machines, recording studios
   - Walkman, multi track tape recording
 - Digital audio devices
   - iPods, MP3 players, audio recorders, hearing aids
@@ -75,8 +75,6 @@ Audio is a major part of our life
 How big is audio
 
 - The biggest videos on YouTube are music-related
-
-
 
 ## Sources
 
