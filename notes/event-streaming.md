@@ -13,6 +13,10 @@ Event streaming is the practice of capturing, manipulating, and routing data in 
 
 "Event streaming is the digital equivalent of the human body's central nervous system." (Apache)
 
+## Implementations
+
+Events carry data payloads similar to those of [[representational-state-transfer|REST]] protocols, but implementation varies.
+
 ## Sources
 
 - <https://kafka.apache.org/documentation/#intro_streaming>
