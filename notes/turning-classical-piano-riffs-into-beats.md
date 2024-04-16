@@ -8,7 +8,7 @@ Assignment for MUS 499 BT2
 
 For this week’s video, I watched a video about how, Nahre Sol, a classically trained pianist, used classical piano riffs and motifs to create interesting and unique patterns for use in beats.
 
-Nahre Sol claims that patterns in music contain different combinations of sound in a particular order in repeating or non-repeating fashions, both in classical and non-classical music. For example, the Alberti bass pattern in classical music contains both static and non-static elements; a consistent triadic structure that is played in such a way that creates movement, while also allowing the flexibility to change chords and create harmonic motion. She wanted to see if applying patterns of classical music would work in a [[beatmaking]] context.
+Nahre Sol claims that patterns in music contain different combinations of sound in a particular order in repeating or non-repeating fashions, both in [[art-classical-music|classical]] and non-classical music. For example, the Alberti bass pattern in classical music contains both static and non-static elements; a consistent triadic structure that is played in such a way that creates movement, while also allowing the flexibility to change chords and create harmonic motion. She wanted to see if applying patterns of classical music would work in a [[beatmaking]] context.
 
 In the video, her approach is to use riffs or moments from the classical music repertoire to input [[midi|MIDI]] information into a drum library, that being Battery 4. She found that playing the riffs verbatim often didn’t lead to the most useful results right away and she had to experiment a bit to get some musical results.
 
